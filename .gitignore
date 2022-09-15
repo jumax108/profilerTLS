@@ -1,0 +1,6 @@
+/MSVC/.vs
+/MSVC/release
+/MSVC/debug
+/logTest/*
+*.bat
+/lib
